@@ -1,0 +1,43 @@
+{
+  "name": "hrc-frontend",
+  "version": "0.0.1",
+  "description": "Hrc Project",
+  "productName": "Hrc App",
+  "author": "Yub <yubmaharjan@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@vee-validate/rules": "^4.7.3",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "nepali-date-converter": "^3.3.1",
+    "quasar": "^1.0.0",
+    "to-words": "^3.4.0",
+    "v-nepalidatepicker": "^1.2.4",
+    "vee-validate": "^4.7.3",
+    "vue-apexcharts": "^1.6.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.4.3"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
